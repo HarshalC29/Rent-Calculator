@@ -1,0 +1,6 @@
+Inputs:-(from user)
+1.Total rent
+2.Elctricity units
+3.charge per Elctricity units
+4.Food ordered for snacking
+5.Enter the number of person living in room/flat
